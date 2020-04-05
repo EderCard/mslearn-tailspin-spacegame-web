@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/ecardos1/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/EderCard.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ecardos1/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=11&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
